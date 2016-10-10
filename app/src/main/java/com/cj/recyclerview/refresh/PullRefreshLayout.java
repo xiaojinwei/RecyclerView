@@ -1,4 +1,4 @@
-package com.cj.recyclerview.refresh;
+﻿package com.cj.recyclerview.refresh;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -561,7 +561,6 @@ public class PullRefreshLayout extends RelativeLayout {
     /**
      * 刷新加载回调接口
      *
-     * @author chenjing
      */
     public interface OnPullListener {
 
